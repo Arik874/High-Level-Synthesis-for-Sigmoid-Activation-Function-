@@ -18,7 +18,7 @@ The exact sigmoid function is approximated using the following piecewise conditi
 *Note: The synthesizer automatically maps the `0.125` multiplication to a highly efficient 3-bit right-shift operation.*
 
 <img width="1024" height="572" alt="image" src="https://github.com/user-attachments/assets/28bae319-4e0b-4c6a-a386-82151f7c657b" />
-##Infographic outlining the repository and its implementation details 
+## AI gen. Infographic outlining the repository and its implementation details 
 
 
 ## Usage
